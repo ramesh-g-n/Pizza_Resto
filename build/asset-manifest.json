@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Pizza_resto/static/js/main.5c1157fd.js",
+    "static/media/pizza-3.jpg": "/Pizza_resto/static/media/pizza-3.f2f9b9a49128f877c57f.jpg",
+    "static/media/Pizzaoftheday.jpg": "/Pizza_resto/static/media/Pizzaoftheday.66d68644270582e9ce8d.jpg",
+    "static/media/HawaiianParadise.jpg": "/Pizza_resto/static/media/HawaiianParadise.4c066971ce4367c6e0bc.jpg",
+    "static/media/SupremePizza.jpg": "/Pizza_resto/static/media/SupremePizza.36d084f3e4823b981b4b.jpg",
+    "static/media/sweet-1.jpg": "/Pizza_resto/static/media/sweet-1.d5cf1ad2859c7af98ea3.jpg",
+    "static/media/sweet-3.jpg": "/Pizza_resto/static/media/sweet-3.c495c74278ec63462c5e.jpg",
+    "static/media/VeggieOverload.jpg": "/Pizza_resto/static/media/VeggieOverload.115cc32b63d9b7485e7e.jpg",
+    "static/media/sweet-2.jpg": "/Pizza_resto/static/media/sweet-2.badeecbe98eb1e099fce.jpg",
+    "index.html": "/Pizza_resto/index.html",
+    "main.5c1157fd.js.map": "/Pizza_resto/static/js/main.5c1157fd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5c1157fd.js"
+  ]
+}
